@@ -22,18 +22,24 @@ Agendar nuevos contactos
 
 FUNCIONAMIENTO:
 el programa le pide al usuario ingresar un numero del 1 al 5 para acceder a las diferentes opciones:
+
 1 - AGREGAR CONTACTO:
     esto luego pide al usuario el nombre, y luego el numero, luego el contacto es agregado al final de la agenda
+    
 2 - VER CONTACTOS:
     esto muestra al usuario la lista con su orden (o desorden) actual
+    
 3 - ORDENAR CONTACTOS:
     primero pide al usuario por que criterio ordenar (nombre/numero), y luego el metodo de ordenamiento (burbuja/quicksort)
+    
 4 - BUSCAR CONTACTOS:
     primero pide al usuario por que criterio buscar (nombre/numero), luego que valor se busca,
     y luego que metodo se usa para buscar (linear/binario). #para que el metodo binario funcione se  
     debe ordenar la lista previamente
+    
 5 - SALIR:
     cierra el programa
+    
 cualquier otro numero le pide al usuario que revise el numero ingresado
 
 REFLEXION:
