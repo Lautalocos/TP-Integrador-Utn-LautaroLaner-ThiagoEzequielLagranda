@@ -1,14 +1,14 @@
-TP Integrador programacion 1 Utn
+TP INTEGRADOR PROGRAMACION 1 UTN
 Comision 16
 Grupo: Lautaro Laner y Thiago Ezequiel Lagranda
 
-Agenda de Contactos - Búsqueda y Ordenamiento
+AGENDA DE CONTACTOS - BUSQUEDA Y ORDENAMIENTO
 
 El proyecto consiste en un programa de python para agendar y agregar contactos con nombre y numero de telefono,
 ver la lista de contactos, ordenarlos por burbuja o quicksort, y buscarlos por 
 nombre o numero, por algoritmo linear y binario, todo atravez de una interfaz simple
 
-Funcionalidades principales:
+FUNCIONALIDADES PRINCIPALES:
 
 Búsqueda de contactos por nombre o número:
   - Búsqueda lineal (En caso de no haber ordenado la lista)
@@ -20,7 +20,7 @@ Visualizacion por consola de agenda
 Cronometrado de tiempo de busqueda
 Agendar nuevos contactos
 
-Funcionamiento:
+FUNCIONAMIENTO:
 el programa le pide al usuario ingresar un numero del 1 al 5 para acceder a las diferentes opciones:
 1 - AGREGAR CONTACTO:
     esto luego pide al usuario el nombre, y luego el numero, luego el contacto es agregado al final de la agenda
@@ -36,7 +36,7 @@ el programa le pide al usuario ingresar un numero del 1 al 5 para acceder a las 
     cierra el programa
 cualquier otro numero le pide al usuario que revise el numero ingresado
 
-reflexion:
+REFLEXION:
 
 fue un trabajo bastante dificil ya que una y otra vez encontramos casos particulares que nos hacian agregar funcionalidad adicional al codigo,
 como fueron los casos de multiples contactos con el mismo nombre o numero,
